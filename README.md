@@ -40,9 +40,9 @@
 ## 📸 Live Screenshots
 
 <p align="center">
-  <img src="assets/ui-home.png" width="220" alt="Home UI"/>
-  <img src="assets/ui-chat.png" width="220" alt="Chat with AI"/>
-  <img src="assets/ui-results.png" width="220" alt="Image Analysis"/>
+  <img src="assets/uitext.png" width="400" alt="UI Text" style="margin: 15px;"/>
+  <img src="assets/uispeec.png" width="400" alt="UI Speech" style="margin: 15px;"/>
+  <img src="assets/uiimage.png" width="400" alt="UI Image" style="margin: 15px;"/>
 </p>
 
 ---
