@@ -40,10 +40,11 @@
 ## 📸 Live Screenshots
 
 <p align="center">
-  <img src="assets/uitext.png" width="400" alt="UI Text" style="margin: 15px;"/>
-  <img src="assets/uispeec.png" width="400" alt="UI Speech" style="margin: 15px;"/>
-  <img src="assets/uiimage.png" width="400" alt="UI Image" style="margin: 15px;"/>
+  <img src="assets/uitext.png" width="450" alt="UI Text" style="margin: 20px; border: 2px solid #ccc; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 10px;"/>
+  <img src="assets/uispeech.png" width="450" alt="UI Speech" style="margin: 20px; border: 2px solid #ccc; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 10px;"/>
+  <img src="assets/uiimage.png" width="450" alt="UI Image" style="margin: 20px; border: 2px solid #ccc; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 10px;"/>
 </p>
+
 
 ---
 
